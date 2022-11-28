@@ -22,6 +22,8 @@ The thematic content consists of:
 * [Numerical Derivation and Integration](https://github.com/smaje99/numerical-methods-udla/blob/main/Derivaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica.ipynb)
     * Numerical Derivative
     * Simpson 3/8 method
+* [Linear Regression](https://github.com/smaje99/numerical-methods-udla/blob/main/regresión%20lineal.ipynb)
+    * Multiple Linear Regression
 
 ---
 
